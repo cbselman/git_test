@@ -1,0 +1,5 @@
+int void main{
+
+    system.out.printf("Hello World!");
+    
+}
